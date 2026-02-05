@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "name": "<i>CROWN</i>",
+    "image": "/images/IMG-20240517-WA0070-107x300.jpg",
+    "description": "Recommendations : Abamectin 1.9% EC is a broad spectrum insecticide and araricide, is effective for ...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 2,
+    "name": "LION",
+    "image": "/images/matched-lion-animal-nature-predator-40835.jpeg",
+    "description": "Recommendations : Acephate 50% + Fipronil 5% WDG is a water dispersible granule containing Acephate ...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 3,
+    "name": "KING",
+    "image": "/images/IMG-20240517-WA0047.jpg",
+    "description": "Recommendations : This Insecticide is used for the control of various sucking pest and bollworms in ...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 4,
+    "name": "YESTAR",
+    "image": null,
+    "description": "Recommendations : It is recommended to control jassid and bollworms of cotton, aphid of safflower. S...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 5,
+    "name": "amico",
+    "image": "/images/IMG-20240517-WA0066.jpg",
+    "description": "Recommendations : Aetamiprid 0.4% + chlorpyrifos 20% ec is a pre-mix emulsifiable concentrate contai...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 6,
+    "name": "acetom",
+    "image": null,
+    "description": "Recommendations : Acetamiprid 20% SP is a soluble powder formulation containing 20% of the active in...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 7,
+    "name": "fasttag",
+    "image": "/images/IMG-20240517-WA0073.jpg",
+    "description": "Recommendations : Recommended for use to control storage pests like Rice weevil, Pulse beetle etc. i...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 8,
+    "name": "fast",
+    "image": null,
+    "description": "Recommendations : Aluminium phosphide 77.5% gr may only be used with the phosphine generator to prod...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 9,
+    "name": "bi star",
+    "image": "/images/8-1024x1024.png",
+    "description": "Recommendations : Bifenthrin 2.5% EC is contact insecticide recommended for control of: 1 Termites i...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 10,
+    "name": "jet",
+    "image": null,
+    "description": "Recommendations : Bifenthrin 30% + Chlorpyriphos 30% EC is an insecticidal combination used for the ...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 11,
+    "name": "nano gold",
+    "image": "/images/IMG-20240517-WA0087.jpg",
+    "description": "Recommendations : Bispyribac sodium 10% sc is effective against grasses, sedges and broad leaved wee...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 12,
+    "name": "mad",
+    "image": null,
+    "description": "Recommendations : It is recommended to control Green leaf hopper, white plant hopper, Brown Plant ho...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 13,
+    "name": "bold",
+    "image": "/images/IMG-20240517-WA0059.jpg",
+    "description": "Recommendations : It is recommended to control stem borer and leaf folder on rice crop....",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 14,
+    "name": "crush",
+    "image": null,
+    "description": "Recommendations : It is a water soluble granular insecticide used for the control of stemborers (yel...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 15,
+    "name": "Unknown Name",
+    "image": null,
+    "description": "Recommendations : Chlorantraniliprole 18.5% w\\\\/w sc is a broad spectrum insecticides used for theco...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 16,
+    "name": "JUDO 3G",
+    "image": "/images/IMG-20240517-WA0075.jpg",
+    "description": "Recommendations : It is recommended to control shoot fly of Bajra, brown plant hopper, gall midge, g...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 17,
+    "name": "killer pro",
+    "image": null,
+    "description": "Recommendations : It is recommended to control termites in buildings, during construction and in exi...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 18,
+    "name": "strong",
+    "image": "/images/IMG-20240517-WA0078-783x1024.jpg",
+    "description": "Recommendations : It is used to control Stem Borer, Leaf roller Gall midge of Rice. *Caution : Toxic...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 19,
+    "name": "killer",
+    "image": null,
+    "description": "Recommendations : it is recommendation to control hispa, leaf roller, gall midge, stem borer of padd...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 20,
+    "name": "killer 505",
+    "image": "/images/IMG-20240517-WA0081.jpg",
+    "description": "Recommendations : It is recommended to control Aphid, Jassid, Thrips, Whitefly, American bollworm, S...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 21,
+    "name": "Unknown Name",
+    "image": null,
+    "description": "Recommendations : Cyantraniliprole 10.26% w\\\\/w OD is a novel anthranilic diamide insecticide effect...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 22,
+    "name": "wipe",
+    "image": null,
+    "description": "Recommendations : Difenthiuron 47% + Bifenthrin 9.4% SC is a suspension concentration containing Dif...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 23,
+    "name": "planet",
+    "image": "/images/IMG-20240517-WA0062-765x1024.jpg",
+    "description": "Recommendations : Diafenthiuron 50% WP is a Broad Spectrum Insecticide. It is recommended for its us...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 24,
+    "name": "rock",
+    "image": null,
+    "description": "Recommendations : It is recommended to control insects of vegetable fruit trees &amp; miscellaneous ...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 25,
+    "name": "devil",
+    "image": "/images/IMG-20240517-WA0086-765x1024.jpg",
+    "description": "Recommendations : Dinotefuran 15% + Pymetrozine 45% WG is water dispersible granule formulation whic...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 26,
+    "name": "mig 5",
+    "image": null,
+    "description": "Recommendations : Emamectin benzoate is recommended for the control of bollworms on cotton, fruit an...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 27,
+    "name": "death",
+    "image": "/images/IMG-20240517-WA0060.jpg",
+    "description": "Recommendations : It is recommended to control Pink boll worm, spotted boll worm and American boll w...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 28,
+    "name": "finch",
+    "image": null,
+    "description": "Recommendations : It should be applied as foliar spray for the control of aphids, jassids and whitef...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 29,
+    "name": "army",
+    "image": "/images/IMG-20240517-WA0063.jpg",
+    "description": "Recommendations : Fipronil 40% + Imidacloprid 40% WG is recommended for control of white grubs in Su...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 30,
+    "name": "grow gib",
+    "image": null,
+    "description": "Recommendations : It is recommended for use in paddy, Cotton, Sugarcane, Groundnut, Brinjal, Bhendi,...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 31,
+    "name": "round off",
+    "image": "/images/IMG-20240517-WA0032.jpg",
+    "description": "Recommendations : It (solution liquid) is a non selective, post-emergence herbicide recommended for ...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 32,
+    "name": "wash out",
+    "image": null,
+    "description": "Recommendations : Lambdacyhalothrin 5% EC is a contact and systemic insecticide which is effective f...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 33,
+    "name": "s mida",
+    "image": "/images/IMG-20240517-WA0077.jpg",
+    "description": "Recommendations : It is a systemic insecticide used as a foliar spray for the control of aphid, Whit...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 34,
+    "name": "midan",
+    "image": null,
+    "description": "Recommendations : It is a systemic insecticide containing imidacloprid active ingredient, balance au...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 35,
+    "name": "protech",
+    "image": "/images/IMG-20240517-WA0040.jpg",
+    "description": "Recommendations : It is used to control bollworms, Jassids, Aphids, Thrips &amp; White flies of cott...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 36,
+    "name": "alexa",
+    "image": null,
+    "description": "Recommendations : Thiamethoxam 12.6% + lambda-cyhalothrin 9.5% zc is an not to be crops when honey b...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 37,
+    "name": "rocket",
+    "image": "/images/IMG-20240517-WA0038.jpg",
+    "description": "Recommendations : It is used to control Bollworm complex of cotton crops....",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 38,
+    "name": "gold pro",
+    "image": null,
+    "description": "Recommendations : Novaluram 5.25%+ Emamectin benzoate 0.9% w/w SC is a suspension concentration cont...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 39,
+    "name": "corona",
+    "image": "/images/IMG-20240517-WA0036.jpg",
+    "description": "Recommendations : Pymetrozine 50% wg is a systematic insecticides and recommended for the control of...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 40,
+    "name": "AZADI-10000",
+    "image": null,
+    "description": "Recommendations : This product is useful for the control of fruit borer of tomato and fruit and shoo...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 41,
+    "name": "Unknown Name",
+    "image": null,
+    "description": "Recommendations : Thiamethoxam 75% w\\\\/w sg is recommended for the control of following pests in gro...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 42,
+    "name": "GERMINATE",
+    "image": null,
+    "description": "Recommendations : Triacontanol 0.05% EC, a Plant Growth Regulator is recommended to increase the yie...",
+    "chemical": "",
+    "category": "PGRs & Nutrients"
+  },
+  {
+    "id": 43,
+    "name": "Unknown Name",
+    "image": null,
+    "description": "Recommendations : Tembotrione 34.4% w\\\\/w SC is a selective herbicide recommended for use along with...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 44,
+    "name": "QUICK",
+    "image": null,
+    "description": "Recommendations : Quizalofop ethyl 10% EC based on ethyl 2-[4-(6-chloroquinoxalin-2-yloxy) phenoxy] ...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 45,
+    "name": "WEED LOCK",
+    "image": "/images/IMG-20240517-WA0041.jpg",
+    "description": "Recommendations : It is used to control Imperata cylindrica, Setaria sp., Commelina benghalenis, Boe...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 46,
+    "name": "PLAZMA",
+    "image": null,
+    "description": "Recommendations : It is recommended to control weeds in Wheat, Rice (transplanted &amp; Direct Sown ...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 47,
+    "name": "PENDI ULTRA",
+    "image": "/images/IMG-20240517-WA0071.jpg",
+    "description": "Recommendations : Pendimethalin 38.7% CS is a selective herbicide for use in Soybean, Cotton , Chill...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 48,
+    "name": "RYFIL",
+    "image": null,
+    "description": "Recommendations : Pretilachlor 50% EC herbicide is recommended for its use to control grasses, sedge...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 49,
+    "name": "HIT MAN",
+    "image": "/images/IMG-20240517-WA0030.jpg",
+    "description": "Recommendations : Pyrithiobac Sodium EC 10 % is a selective herbicide for use in Cotton for controll...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 50,
+    "name": "SMOOTH PRO",
+    "image": null,
+    "description": "Recommendations : The fungicidal combination is used for controlling disease complex in tomato which...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 51,
+    "name": "MINI STAR",
+    "image": "/images/IMG-20240517-WA0068.jpg",
+    "description": "Recommendations : This fungicidal combination is used for controlling disease complex in Rice which ...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 52,
+    "name": "PLUTON",
+    "image": "/images/15-1024x1024.png",
+    "description": "Recommendations : Azoxystrobin 11% + Tebuconazole 18.3% w/w SC is a suspensible concentrate fungicid...",
+    "chemical": "AZOXYSTROBIN 11 % + TEBUCONAZOLE 18.3% W/W SC",
+    "category": "Other"
+  },
+  {
+    "id": 53,
+    "name": "CATCH",
+    "image": "/images/IMG-20240517-WA0044.jpg",
+    "description": "Recommendations : Haxaconzaole 4% + Carbendazim 16% SC is a fungicidal combination, used for the con...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 54,
+    "name": "CLEAN",
+    "image": null,
+    "description": "Recommendations : Sulphur 55.16 % SC is a Suspension Concentrate used for the control of Powdery mil...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 55,
+    "name": "CLEAR",
+    "image": "/images/IMG-20240517-WA0085-765x1024.jpg",
+    "description": "Recommendations : Sulphur 80% WDG is used for the control of powdery mildew on Grapes, Cowpea, Guar,...",
+    "chemical": "",
+    "category": "Fungicides"
+  },
+  {
+    "id": 56,
+    "name": "ZIM",
+    "image": null,
+    "description": "Recommendations : It is recommended to control blast &amp; sheath blight of paddy, loose smut of whe...",
+    "chemical": "",
+    "category": "Fungicides"
+  },
+  {
+    "id": 57,
+    "name": "TIKKA",
+    "image": "/images/IMG-20240517-WA0069.jpg",
+    "description": "Recommendations : Chlorothalonil - 75% w.p. is used to control Tikka leaf spot and rust of Ground nu...",
+    "chemical": "",
+    "category": "Fungicides"
+  },
+  {
+    "id": 58,
+    "name": "SWIFT",
+    "image": null,
+    "description": "Recommendations : Mancozeb 63% + Carbendazim 12% WS is a systemic and contact fungicide used for see...",
+    "chemical": "",
+    "category": "Fungicides"
+  },
+  {
+    "id": 59,
+    "name": "SMOOTH",
+    "image": "/images/7-1-1024x1024.png",
+    "description": "Recommendations : For the control of downy mildew of grapevine, damping off, leaf blight and black s...",
+    "chemical": "",
+    "category": "Fungicides"
+  },
+  {
+    "id": 60,
+    "name": "Unknown Name",
+    "image": null,
+    "description": "Recommendations : Tricyclazole 18.0% w\\\\/w (200 g\\\\/l)+Tebuconazole 14.4% w\\\\/w (160 g\\\\/l) SC is a ...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 61,
+    "name": "ARROW",
+    "image": "/images/IMG-20240517-WA0055-765x1024.jpg",
+    "description": "Recommendations : Recommended for the control of blast disease of rice crop...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 62,
+    "name": "don",
+    "image": null,
+    "description": "Recommendations : Chlorantraniliprole 18.5% w/w sc is a broad spectrum insecticides used for thecont...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 63,
+    "name": "beast",
+    "image": null,
+    "description": "Recommendations : Cyantraniliprole 10.26% w/w OD is a novel anthranilic diamide insecticide effectiv...",
+    "chemical": "",
+    "category": "Insecticides"
+  },
+  {
+    "id": 64,
+    "name": "attack",
+    "image": "/images/IMG-20240517-WA0039.jpg",
+    "description": "Recommendations : Thiamethoxam 75% w/w sg is recommended for the control of following pests in groun...",
+    "chemical": "",
+    "category": "Other"
+  },
+  {
+    "id": 65,
+    "name": "TARZAN",
+    "image": "/images/IMG-20240517-WA0056.jpg",
+    "description": "Recommendations : Tembotrione 34.4% w/w SC is a selective herbicide recommended for use along with s...",
+    "chemical": "",
+    "category": "Herbicides"
+  },
+  {
+    "id": 66,
+    "name": "TURBO",
+    "image": null,
+    "description": "Recommendations : Tricyclazole 18.0% w/w (200 g/l)+Tebuconazole 14.4% w/w (160 g/l) SC is a broad sp...",
+    "chemical": "",
+    "category": "Other"
+  }
+]
