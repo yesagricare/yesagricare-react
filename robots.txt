@@ -1,0 +1,14 @@
+# Yes Agri Care - Robots.txt
+# https://yesagricare.com
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://yesagricare.com/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
+
+# Disallow admin/system paths (none for static site)
+Disallow: 
